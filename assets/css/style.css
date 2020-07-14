@@ -830,7 +830,7 @@ select:visited {
 .slider-style-one .main-slider-img-text {
   z-index: 1; }
   .slider-style-one .main-slider-img-text .background_overlay {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.3);
     z-index: -1; }
   .slider-style-one .main-slider-img-text .slider-content-box {
     max-width: 620px;
